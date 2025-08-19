@@ -59,18 +59,21 @@ button:hover{
 
 
 .herotext{
+
   display: flex;
   align-items: center;
+  text-align: start;
+  flex-wrap: warp;
   justify-content: space-evenly;
-  margin-top: 35px;
-  margin: 30px;
+  margin: 50px;
+
 }
 
 
-.subtext{
+#subtext{
 
-display: flex;
-justify-content: space-between;
+ display: flex;
+ justify-content: space-between;
 
 }
 
